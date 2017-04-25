@@ -10,9 +10,9 @@
  * @license         http://www.gnu.org/licenses/gpl.html
  * @platform        WebsiteBaker 2.8.3
  * @requirements    PHP 5.3.6 and higher
- * @version         $Id: delete.php 1377 2011-01-12 18:10:27Z FrankH $
- * @filesource      $HeadURL: http://svn.websitebaker2.org/branches/2.8.x/wb/modules/wysiwyg/modify.php $
- * @lastmodified    $Date: 2011-01-11 20:29:52 +0100 (Di, 11 Jan 2011) $
+ * @version         $Id: delete.php 67 2017-03-03 22:14:28Z manu $
+ * @filesource      $HeadURL: svn://isteam.dynxs.de/wb2.10/tags/WB-2.10.0/wb/modules/menu_link/delete.php $
+ * @lastmodified    $Date: 2017-03-03 23:14:28 +0100 (Fr, 03. Mrz 2017) $
  *
  */
 /* -------------------------------------------------------- */
